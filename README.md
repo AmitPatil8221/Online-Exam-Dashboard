@@ -78,17 +78,6 @@ A comprehensive online examination system with timer-based MCQ tests and user pr
    - System displays score
    - Automatically returns to login screen
 
-## Project Structure
-src/
-└── OnlineExamDashboard/
-    ├── ExamPage.java          # MCQ examination interface
-    ├── LoginPage.java         # Authentication screen
-    ├── Main.java              # Application entry point
-    ├── ProfilePage.java       # User profile management
-    ├── ResultPage.java        # Score display (future implementation)
-    ├── User.java              # User data model
-    └── UserDatabase.java      # User storage and validation
-
 ## 🧑‍💻 Author
 
 Amit Patil  
